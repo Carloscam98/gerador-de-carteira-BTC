@@ -1,8 +1,5 @@
 # Blockchain - Gerando uma carteira BTC ₿
 
-<h4 align="center">
-🚀 BLOCKCHAIN - Create a Wallet
-</h4>
 
 ## :rocket: Technologies
 
